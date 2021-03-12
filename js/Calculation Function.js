@@ -12,7 +12,7 @@ switch (func) {
             
                case '/': document.write(num1/num2);
                break;
-               default:  document.write("Unknown Error <br />")
+               default:  document.write("Wrong Input Error <br />")
             }
 
 }
