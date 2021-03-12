@@ -1,9 +1,8 @@
 # training_polytechnic
 Program Exercise of polytechnic Training
 
-Here i Save my Program given by My teacher to perform.
+Here i Save my Program given in my institution as HW.
 
-#Made for training Purpose in Polytechnic Diploma
-
+#Made for training Purpose
 
 Peace Out !!!!
