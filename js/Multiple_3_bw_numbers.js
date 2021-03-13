@@ -7,5 +7,5 @@ for (num1; num1 <= num2; num2--) {           //main  loop
 }
 calcs(10,200);                                //Any to Numbers
 
-//This one is Best i Code i can think of for this Program...
-//this is like version 3...lol
+//This one is Best Code i can think of for this Program...
+//this is like version 3 of the same program...lol
