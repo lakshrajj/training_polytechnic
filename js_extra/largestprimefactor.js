@@ -9,8 +9,7 @@ function prime(num){
 }
 
 a=6008
-c=0
-for (x=2;x<=a-1;x++){
+for (x=2;x<=a/7;x++){
     if(a%x===0){
       if(prime(x)){
       	c=x
@@ -20,4 +19,4 @@ for (x=2;x<=a-1;x++){
 
 console.log(c)
 
-// not confirmedd
+// Confirmed
