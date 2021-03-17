@@ -8,3 +8,4 @@ for (x=2;x<=a-1;x++){
   }
 
 console.log(c)
+// not done yet
