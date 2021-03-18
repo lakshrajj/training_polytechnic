@@ -4,13 +4,13 @@ lar(i,2)
 }
 	function lar(j,num){
 
-	if(j%num===0){
+if(j%num===0){
 	if (num<21){
-		
 		lar(j,num+1)
-	   	} else {   console.log(i)
-		        		i=0;
-		       }
-
-}}
+} else 
+   {  console.log(i)
+		i=0;
+		        }
+		      }
+		  }
 	
