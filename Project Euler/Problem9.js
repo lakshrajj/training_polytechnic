@@ -1,5 +1,5 @@
 //one Pythagorean triplet for which a + b + c = 1000.
-Find the product abc.
+//Find the product abc.
 for (a = 1; a < 350; a++) {
    sum = 0;
   for ( b = a + 1; sum <= 1000; b++) {
