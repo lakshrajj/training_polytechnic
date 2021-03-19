@@ -15,6 +15,6 @@ for (x=2;x<=a;x++){
       	
     } 
   }
-  console.log(c-4)
+  console.log(c)
 //Running Fine
 //Taking About 250 ms in JS compiled using SubLime.
