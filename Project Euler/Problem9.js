@@ -6,10 +6,10 @@ for (a = 1; a < 350; a++) {
      c = Math.sqrt((a * a) + (b * b));
     sum = a + b + c;
     if (sum === 1000) {
-    	console.log("Sum of A+b+c=")
-    	console.log(a + b + c)
-      console.log(a * b * c);
+    	console.log("Sum of A+b+c     : "+(a + b + c))
+      console.log("Product of a*b*c : "+(a * b * c));
     }
   }
 }
-//Working Fine Executing in less than 1 sec
+//Working Fine Executing in less than 0.1 sec
+
