@@ -1,6 +1,6 @@
 //starting number, under one million, produces the longest chain
 
-//This Code is 100% written by me without seeing Solution/hints/answers etc..
+
 
 
 k=0;  //Taking K as Temparary Number to take highest Values
