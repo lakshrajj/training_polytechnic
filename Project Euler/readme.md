@@ -9,5 +9,7 @@ all the Logics used in Programs Are written by me , If our Method or logic match
 you can use my program but please try to understand the logics , Copying program is Fine but just pasting it 
 without knowing how it works is a problem..
 
+
+and Sorry About bad Formatting of some program , i will fix that Later 
 #peace Out
 ~lrs
