@@ -44,4 +44,4 @@ while i < len(n) - 13:
         k = j
 print(k)
 
-#damn Python is Fast , This Program is taking like less than 1 Sec.
+#Executing in  less than 1 Sec.
