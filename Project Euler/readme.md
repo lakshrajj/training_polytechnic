@@ -13,3 +13,7 @@ without knowing how it works is a problem..
 and Sorry About bad Formatting of some program , i will fix that Later 
 #peace Out
 ~lrs
+
+
+some Contributers:- 
+https://github.com/Slayer-Killer
