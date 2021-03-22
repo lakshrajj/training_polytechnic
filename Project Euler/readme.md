@@ -15,6 +15,6 @@ and Sorry About bad Formatting of some program , i will fix that Later
 ~lrs
 
 
-some Contributers:-
+Contributer in some of my program:-
 
 https://github.com/Slayer-Killer
