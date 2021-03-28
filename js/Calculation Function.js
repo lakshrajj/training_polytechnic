@@ -2,7 +2,7 @@ function calculate(num1,func,num2){
   var ans;
 
 switch (func) {
-               case '+': ans=(num1+num2);
+               case '+': ans=(Number(num1)+Number(num2));
                break;
             
                case '-':ans=(num1-num2);
